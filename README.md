@@ -8,7 +8,7 @@
 
 <div align="center">
   
-![Nixie Counter](http://192.18.158.188:8080/simple.php?username=brucelsprouts&cb=1)
+![Nixie Counter](http://192.18.158.188:8080/simple.php?username=danield4ever&cb=1)
 Viewer Count
 </div>
 
@@ -47,8 +47,8 @@ I'm a Nursing student at York University with a passion for web development, vid
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brucelsprouts&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucelsprouts&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danield4ever&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danield4ever&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </div>
 
 ## 🐍 Contribution Graph
